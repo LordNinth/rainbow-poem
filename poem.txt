@@ -1,1 +1,4 @@
 rainbow have many colours
+red
+blue
+green
